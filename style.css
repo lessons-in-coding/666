@@ -1,2 +1,10 @@
-* {margin: 0; padding: 0; box-sizing: border-box;}
-body {font-size: 16px}
+/* Univesal Selector */
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+}
